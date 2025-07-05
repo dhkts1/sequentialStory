@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/dhkts1-sequentialstory-badge.png)](https://mseep.ai/app/dhkts1-sequentialstory)
+
 # Sequential Story MCP Server
 
 A Model Context Protocol (MCP) server for Sequential Thinking and Sequential Story as mnemonic techniques for problem-solving.
